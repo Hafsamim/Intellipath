@@ -56,6 +56,8 @@ Similar systems are already used by:
 
 3.YouTube
 
+4.Facebook 
+
 8. Future Scope:
    
 The system can be improved by adding:
@@ -70,4 +72,4 @@ The system can be improved by adding:
 
 ✅Integration with university LM
 
-🔰IntelliPath AI is an effective, user-friendly, and AI-relevant learning recommendation system. It is fully achievable as a real-life application with future enhancements.
+🔰IntelliPath AI is an effective, user-friendly, and AI-relevant learning recommendation system. It is fully achievable as a real-life application with future enhancements.AI will guide what to learn, how to learn, and what job to get.
